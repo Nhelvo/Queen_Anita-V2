@@ -17,15 +17,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["2347043759577","2349066528353"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["2347043759577","2349066528353"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["2347043759577"];
-global.OwnerName = "DAVID CYRIL";
-global.BotName = "QUEEN_ANITA-V2";
-global.packname = "A N I T A <3 D A V I D";                             //Do not change.
-global.author = "QUEEN_ANITA-V2";                               //Do not change.
+global.Owner = ["254113566713"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["254113566713"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["254113566713"];
+global.OwnerName = "𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑";
+global.BotName = "𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩";
+global.packname = "𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑";                             //Do not change.
+global.author = "𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩";                               //Do not change.
 global.BotSourceCode = "https://github.com/DeeCeeXxx/"; //Do not change.
-global.SupportGroupLink = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"; 
+global.SupportGroupLink = "https://chat.whatsapp.com/G4OqIod7kOi4v3bKIIo41j"; 
 
 
 //
