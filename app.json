@@ -1,9 +1,9 @@
 
 {
-    "name": "QUEEN_ANITA-V2",
+    "name": "𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑",
     "description": "Queen_Anita-V2 is a whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
     "repository": "https://github.com/DeeCeeXxx/Queen_Anita-V2",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
+    "logo": "https://telegra.ph/file/5a9a8a0b3478d732220d5.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
       {
